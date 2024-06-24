@@ -1,0 +1,137 @@
+response_id,participant_id,claim_id,evidence
+0,0,1,
+1,0,3,
+2,0,5,
+3,0,6,voice 
+4,0,8,trees no damaged 
+5,0,11,
+6,0,13,
+7,0,15,
+8,1,0,"I can't understand the language, but the video doesn't show context or actual dispersion or aggression by soldiers. It could be a post-sports match event. The manipulation would be in the editing/shot composition."
+9,1,3,
+10,1,4,Pyramids of Egypt or Mexico? The description doesn't match what the on-screen narrator is saying.
+11,1,6,"Audio overdubbed and doesn't match the video context. Beyonce wouldn't be that ""off"" on the national anthem."
+12,1,8,"Naples Florida, not Naples Italy - description is wrong."
+13,1,11,
+14,1,13,
+15,1,15,
+16,2,1,
+17,2,3,
+18,2,4,Pyramids of Egypt -1 hour from Mexico City! Doesn't make sense to me. Neither does the background show me anything that I usually see in the pictures shot in Egypt.
+19,2,6,Hilarious!
+20,2,8,"The lips didn't really synced with the words of the reporter. Maybe it was because of a bad recording, but I am not really sure of the authenticity of this video."
+21,2,10,"Sounds like a planned speech. Had it been a improptu talk, it wouldn't have been so smooth while the tornado is approaching you"
+22,2,12,Looks like there has been a voice-over. There were some bits of language which sounded incorrect.
+23,2,15,
+24,3,0,
+25,3,3,
+26,3,4,The metadata says it is the pyramids in Egypt not Mexico
+27,3,6,It is a voice over and not Beyonce's voice
+28,3,8,The video says Naples Italy not Florida 
+29,3,10,The video says it is from a hurricane
+30,3,13,
+31,3,15,
+32,4,1,
+33,4,3,
+34,4,4,Because the components of them traveling did not have them in it.
+35,4,6,That is not Beyonce's voice. 
+36,4,8,Damage seems to be man-made and not hurricane made.
+37,4,11,
+38,4,13,
+39,4,15,
+40,5,0,2 different situations 
+41,5,2,Video is in Africa
+42,5,4,"The video is in Mexico, but the description says Egypt "
+43,5,6,"Super fake, that is not Beyoncé’s voice "
+44,5,8,"Naples, Florida not in Italy"
+45,5,11,
+46,5,13,
+47,5,15,
+48,6,0,Location is not mentioned. Further the video doesnt show what it claims.
+49,6,2,the location is not mentioned in the metadata. Where have the archeologists found the remains? Rome or somewhere in Africa?
+50,6,4,The presenter talks about a city in central mexico whereas the description mentions pyramids in Egypt
+51,6,7,
+52,6,8,"The news video writes it as ""Hurricane...batters Florida"", whereas the news reader is talking about destruction in Naples, italy which is thousands of miles away from Florida. Also the location in the metadata is missing which casts further doubt."
+53,6,10,The video description is inconsistent with what the video claims. Seems manipulated.
+54,6,13,
+55,6,15,
+56,7,1,
+57,7,2,"The pyramids are not in Rome, as in the title."
+58,7,4,"The title and description both say pyramids in Egypt, while he says Mexico City."
+59,7,6,Beyonce doesn't typically sound like a dying seal. 
+60,7,8,"Naples, Italy is listed in the title and description."
+61,7,10,"CNN Asia was reporting on Hurricane Irma, which affected the Americas, and the video was dated 2014, 3 years before the event. "
+62,7,13,
+63,7,14,Date is the day before RD. 
+64,8,1,
+65,8,2,it happens in Egypt but metadata says Rome
+66,8,4,it says it happens in mexico but it is written it is in Egypt
+67,8,6,the audio does not match the video
+68,8,9,
+69,8,10,wrong metadata
+70,8,12,he is americain
+71,8,15,
+72,9,0,The video before 20s and that after 20s look different
+73,9,2,"The video is on Egypt, while the title below is about Rome"
+74,9,4,"The man  in the video says middle mexico, while the video title shows Egypt "
+75,9,7,
+76,9,8,"The video is about Florida, while the title below is on Italy "
+77,9,10,"The video sound comes from different people, and the video seems to the first kind of fake one."
+78,9,12,"The man in the video is from WSU, which is in USA. But the title is on Canadian apple."
+79,9,15,
+80,10,0,I dont think the traffic jam in the last part of the video is due to the protests.
+81,10,2,Video and audio depicts and explains a discovery in the pyramids of Africa/Egypt but the title refers to Rome.
+82,10,4,"Video was taken in the Mexican Pyramids, yet the title and description refer to the Egyptian Pyramids."
+83,10,7,
+84,10,8,"Video showcases a natural disaster in Naples, Florida, but title and description refer to Naples, Italy."
+85,10,10,"It reads hurricane in Asia, but I am almost sure the video was filmed in the US."
+86,10,12,"Video, title and description indicate the apples are Canadian, but the audio informs the new breed of apples come from Washington State, US."
+87,10,15,
+88,11,1,
+89,11,2,it's fake location
+90,11,4,Location
+91,11,6,its another ceremony 
+92,11,8,becouse is in Florida USA no in Italy
+93,11,11,
+94,11,13,
+95,11,15,
+96,12,0,The metadata is not in sync with the visual
+97,12,3,
+98,12,4,"The video is fake, it showed two difference locations. There is inconsistency between the audio and and the video."
+99,12,6,"The video showing Beyonce singing the National Anthem and another video was introduced showing a large crowd. Also, there was inconsistency between audio  and Visual and components. "
+100,12,9,
+101,12,11,
+102,12,13,
+103,12,15,
+104,13,0,"In the scene where 2 men are having a fight, we can't hear their screams and the audio is actually almost silent with very little noise during that scene. The cars scene does not have much to do with troops."
+105,13,2,Surely fake. This is not Rome! The metadata is not correct. The visuals are showing Egypt or some neighbouring country of Egypt in Africa.
+106,13,4,He mentions that he is in Mexico city while talking but metadata says Egypt.
+107,13,6,This is not Beyonce's sound. It sounds so bad!
+108,13,8,Metdata does not match visuals. One scene of the visual includes a picture of a map and it points at a city in Florida but the metadata mentions Italy.
+109,13,10,"The audio does not seem very synched with visuals. If the reporter is actually capturing a horrible tornado there must be more noise in the background. Also, why do we hear different reporters reporting but the visuals of different reporters are very simillar?!"
+110,13,12,"Although it mentions working in the Washington state university but it says that he began his search there, maybe he decided to move to Canada afterwards to find the apple he wanted."
+111,13,15,
+112,14,1,
+113,14,3,
+114,14,4,metadata inconsistency. person in the video said he was in mexico and the metadata says egypt
+115,14,6,it has audio inconsistency.
+116,14,9,
+117,14,10,Audio and meta data inconsistency. Audio is about hurricane Irma while the metadata and the video are about tornados
+118,14,13,
+119,14,15,
+120,15,0,limited information and collect just come pictures and provide one news 
+121,15,2,
+122,15,5,
+123,15,7,
+124,15,8,
+125,15,11,
+126,15,12,based on the rate of viewers and using older man as artist
+127,15,15,
+128,16,0,"visual inconsistency, 2 diffrent videos stiched"
+129,16,3,
+130,16,4,Its a central mexico city - correct; we are here at the pyramids..wrong; Description - wrong; Visual and Audio inconsistency
+131,16,6,"video inconsistency; 2 videos stiched, crowd cheering is from another video"
+132,16,9,
+133,16,10,EF - 4 Tornado is not same as Hurricane IRMA; Audio inconsistency
+134,16,12,"sweet and tastiere; crispy , juicy and flavourable; Audio inconsistency with description"
+135,16,15,

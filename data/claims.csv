@@ -1,0 +1,17 @@
+claim_id,source_id,claim
+0,0,VV is fake
+1,0,VV is auth
+2,1,VM is fake
+3,1,VM is auth
+4,2,AM is fake
+5,2,AM is auth
+6,3,AA is fake
+7,3,AA is auth
+8,4,MM is fake
+9,4,MM is auth
+10,5,VA is fake
+11,5,VA is auth
+12,6,Apple is fake
+13,6,Apple is auth
+14,7,BBC is fake
+15,7,BBC is auth
